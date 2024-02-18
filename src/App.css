@@ -34,6 +34,7 @@ body{
   font-size: 20px;
   margin-top: 50px;
   border: 0;
+  cursor: pointer;
 
   user-select: none;
   -webkit-user-select: none;
