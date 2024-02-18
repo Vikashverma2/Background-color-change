@@ -1,70 +1,29 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Random-BgColor-Changer
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+The Random-BgColor-Changer is a simple React.js application designed to dynamically change the background color of a webpage at random intervals. Built using React.js, this application utilizes state management to control the background color and implements event listeners to trigger color changes. The user interface typically consists of a button that, when clicked, initiates the background color change. Additionally, the application may feature settings to customize the frequency of color changes or specify a range of colors to cycle through. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Here the Some Screen Short 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## BgColor 1
+![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicHXXCqbIB7SjJZrzcH08XqkaZr8gymd65-GVIOnhg44xXpDEN7O-1HRhvGBKrFvYCkPCdIwU0BYQ6yxWU0skIjqdDRd83SgtG3D9xU8hmNqQCRwIWsiT2NvMJIwba5AAyHBpa0gHBi-PK2WcRJVy1j2mHH3GBvsCIl8I0Rp0mMTzMRSArb5cGd6qd/s1755/color%20changer1.jpeg)
+## BgColor 2
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgapSO4pOHN4F7hO0YABRbn13PZHix3axFAqc1-hUcNYHgbJQZhyX1yQeNtO22cHjJ6s2dC7jRmGvlZutDayy9xLSOYtRcMbgjDmlP5iVtGVpOo7rPBTKnEy6F_DtY6Dg8nCmo6o9QeoMB9tuMNHIIlv-akms-q3GSoobLRWPlg5WwOmGPUDBeSocN2/s1739/colorchanger2.png)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Running Tests
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+To run tests, run the following command
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+  npm start
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
